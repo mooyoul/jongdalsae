@@ -1,2 +1,2 @@
 # jongdalsae
-Flexible, Multi-functional, Connected Alarm clock
+Connected, Flexible, Multi-functional and Hackable Alarm clock
